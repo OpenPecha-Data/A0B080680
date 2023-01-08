@@ -1,0 +1,35 @@
+id: A0B080680
+title: The Prayer and Offering to 'The Great Lion, Gesar the Jewel', that Spontaneously
+  Accomplishes Activities
+type: translation
+pechas:
+- ICDA4FC1C
+- IC657F7C3
+- I96E9E848
+- IE8487BE3
+- I99AF5248
+- I706AA2A4
+- I97535488
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - fr
+  - it
+  - nl
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:07:57.647424
+  last_modified_at: 2023-01-04 13:07:57.647431
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  ICDA4FC1C/A653: A3EC
+  IC657F7C3/CA73: A3EC
+  I96E9E848/4D19: A3EC
+  IE8487BE3/8E98: A3EC
+  I99AF5248/584D: A3EC
+  I706AA2A4/F654: A3EC
+  I97535488/D4A0: A3EC
